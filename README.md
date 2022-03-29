@@ -1,6 +1,3 @@
-## My first readme
+My first readme
 
-```bash
-echo "HELLO WORLD"
 
-```
